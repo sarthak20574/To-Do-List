@@ -7,7 +7,7 @@
 A simple and interactive To-Do List application built using the **Laravel 9** framework. This app allows users to add, complete, delete tasks, and toggle between showing all tasks or only pending ones.
 
 
-## **Video Link: **
+## **Video Link:**
 **https://youtu.be/RBAJPtcNVfc**
 
 
